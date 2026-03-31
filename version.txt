@@ -1,1 +1,1 @@
-1.0|https://github.com/quintanausa2024-design/nyopen-sniper/releases/download/v1.0/NyOpenSniper.exe
+2.1|https://github.com/quintanausa2024-design/nyopen-sniper/releases/download/v2.1/NyOpenSniper.exe
